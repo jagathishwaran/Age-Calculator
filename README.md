@@ -10,11 +10,6 @@ Age Calculator
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
 
 
-## Demo
-
-Live Demo:
-
-        https://jagathishwaran.github.io/Quiz-Site/
 
     
 ## Getting Started
