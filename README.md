@@ -1,10 +1,10 @@
 
 ## Title
 
-Quiz Site
+Age Calculator
 ## Description 
 
-Presenting my JavaScript Quiz Website! Test your knowledge with a collection of engaging quizzes. Enjoy an interactive experience, responsive design, and captivating visuals. Enhance your learning while having fun. Accessible on any device for seamless quiz-taking. Expand your knowledge with this captivating quiz platform.
+"Built with JavaScript, HTML, and CSS, this age calculator is a handy tool to quickly determine someone's age. Simply input the birthdate, and the calculator instantly calculates the precise age in years, months, and days. This intuitive web application offers a seamless user experience, making age calculations a breeze."
 ## Authors
 
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
@@ -34,11 +34,11 @@ To explore or modify the code, follow these steps:
 
 ## Features
 
-1️⃣ Dynamic question generation: Questions are generated dynamically to provide a unique experience with each quiz attempt.
+1️⃣ Accurate Age Calculation: This age calculator provides precise and accurate results. Input the birthdate, and the calculator instantly calculates the age in years, months, and days. Get reliable and up-to-date information on someone's age with just a few clicks.
 
-2️⃣ Score tracking: Keep track of user scores and display them at the end of each quiz.
+2️⃣ User-Friendly Interface: The age calculator offers a user-friendly interface that is easy to navigate. With clear instructions and input fields, users can quickly enter the birthdate and view the calculated age. The intuitive design ensures a seamless experience for users of all levels of technical proficiency.
 
-3️⃣ Responsive design: Ensure the website is accessible and user-friendly on various devices.
+3️⃣ Cross-Device Compatibility: The age calculator is compatible with different devices, including desktops, laptops, tablets, and mobile phones. Although it may not be fully responsive, it ensures functionality across a range of screen sizes and resolutions. Whether you're accessing the calculator from a large desktop monitor or a smaller mobile screen, you can still perform age calculations with ease. The layout and design adapt to different devices, providing a satisfactory user experience across platforms.
 
 
 
